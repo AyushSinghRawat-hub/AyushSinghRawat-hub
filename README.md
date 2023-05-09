@@ -19,7 +19,7 @@ Hello, I'm Ayush Singh Rawat<br>I'm a Computer Science student currently pursuin
 ![](https://github-contributor-stats.vercel.app/api?username=AyushSinghRawat-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- viewcount
----
+
 [![](https://visitcount.itsvg.in/api?id=AyushSinghRawat-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
