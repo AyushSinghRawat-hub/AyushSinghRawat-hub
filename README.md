@@ -14,6 +14,7 @@ Hello, I'm Ayush Singh Rawat<br>I'm a Computer Science student currently pursuin
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
 -->
  
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AyushSinghRawat-hub&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushSinghRawat-hub&theme=dark&hide_border=true)<br/>
@@ -25,7 +26,7 @@ Hello, I'm Ayush Singh Rawat<br>I'm a Computer Science student currently pursuin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AyushSinghRawat-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- view count
+
 
 [![](https://visitcount.itsvg.in/api?id=AyushSinghRawat-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
