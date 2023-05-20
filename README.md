@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 💫 About Me:   
 Hello, I'm Ayush Singh Rawat<br>I'm a Computer Science student currently pursuing my MCA degree.This is the README file for my projects.<br><br> 
 
 ## 🌐 Socials: 
